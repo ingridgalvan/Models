@@ -1,0 +1,11 @@
+Model Information:
+* title:	Modelado de personaje
+* source:	https://sketchfab.com/3d-models/modelado-de-personaje-5fadba38c0644554bbe90a1709add73a
+* author:	snowlopez445 (https://sketchfab.com/snowlopez445)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Modelado de personaje" (https://sketchfab.com/3d-models/modelado-de-personaje-5fadba38c0644554bbe90a1709add73a) by snowlopez445 (https://sketchfab.com/snowlopez445) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
